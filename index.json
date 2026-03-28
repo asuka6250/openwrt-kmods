@@ -3,7 +3,6 @@
   "architecture": "aarch64_cortex-a53",
   "packages": {
     "autocore": "42",
-    "base-files": "1~f505120278",
     "block-mount": "2026.02.15~8d377aa6-r1",
     "dropbear": "2025.89-r1",
     "fstools": "2026.02.15~8d377aa6-r1",
