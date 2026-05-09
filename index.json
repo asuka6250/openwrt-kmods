@@ -13,6 +13,7 @@
     "fwtool": "2025.10.03~04cd252e-r1",
     "ipq-wifi-jdcloud_re-ss-01": "2026.03.07~beaf4667-r1",
     "ipq-wifi-link_nn6000": "2026.03.07~beaf4667-r1",
+    "iptables-mod-fullconenat": "2023.01.01~74c5e6f3-r1",
     "iptables-nft": "1.8.10-r3",
     "kernel": "6.18.26~18c0acfcf30694bb8374c48f286d4cbe-r1",
     "kmod-3c59x": "6.18.26-r1",
